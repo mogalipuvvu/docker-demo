@@ -1,15 +1,19 @@
 # docker-demo
 Use these examples to learn docker basics 
 
-First try to pull and create containers using the following examples:
+ ** First try to pull images ** 
 
-docker pull redis
-docker pull alpine
-docker pull nginx
 
-docker run -it nginxe
+docker pull redis     
+docker pull alpine    
+docker pull nginx    
 
-####
+Then using  ** docker run **  create containers, something like:
 
-Then start writing Dockerfiles using simple examples from this repository.
+    
+docker run  nginx 
+docker run redis
+
+
+** Then start writing _Dockerfiles_ using simple examples from this repository.
 
