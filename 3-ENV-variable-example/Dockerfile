@@ -11,6 +11,6 @@ RUN apk add nano
 
 ENV X=10
 ENV CITY=Austin-Texas
-ENV STATE=New Jersey
+ENV STATE="New Jersey"
 
 #################################         END       #############################
