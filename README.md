@@ -1,7 +1,7 @@
 # docker-demo
 Use these examples to learn docker basics 
 
- **First try to pull images** 
+ **First try to pull images from DockerHub** 
 
 ```
 docker pull redis     

@@ -1,4 +1,4 @@
-######    Our first simple example to write  Dockerfile
+######    Our first simple example to write Dockerfile
 
 ########  START   ###########
 FROM alpine:3.12  
